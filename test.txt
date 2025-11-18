@@ -1,0 +1,5 @@
+This is a write operations.
+Operation perform successsfully. Thank you for choosing us.Another line is here.
+ which is append method.
+Another line is here.
+ which is append method.
